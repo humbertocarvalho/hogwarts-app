@@ -26,15 +26,15 @@ Desenhamos as telas para você se basear, este aplicativo deve ser gerado para A
 
 ## Tela de Login
 
-[![app-login](APP-LOGIN.png)]
+![app-login](APP-LOGIN.png)
 
 ## Listagem dos Bruxos
 
-[![app-list](APP-LIST.png)]
+![app-list](APP-LIST.png)
 
 ## Formulário
 
-[![app-bruxo](APP-BRUXO.png)]
+![app-bruxo](APP-BRUXO.png)
 
 
 ### Avaliação
