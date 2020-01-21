@@ -19,9 +19,10 @@ O professor Dumbledore está precisando de um aplicativo para cadastrar todos os
 Você está disposto a ajudar?
 
 Desenhamos as telas para você se basear, este aplicativo deve ser gerado para ANDROID, e você poderá usar as seguintes tecnologias:
-- Node.js e PHP 7+ para a API.
+- Node.js ou PHP 7+ para a API.
 - MySQL para o Banco de Dados.
 - React Native ou Ionic
+- Será um diferencial, utilizar gerenciamento de estados utilizando Redux.
 
 ## Tela de Login
 
